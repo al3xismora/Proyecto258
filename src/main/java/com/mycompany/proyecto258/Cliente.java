@@ -25,6 +25,7 @@ public class Cliente {
     }
 
 
+//comentario de prueba
     
     //Getters y Setters
     public String getNombre() {
